@@ -1,0 +1,9 @@
+C:\Users\serba\Desktop\kurs\kurs\bin\x64\Debug\kurs.exe.config
+C:\Users\serba\Desktop\kurs\kurs\bin\x64\Debug\kurs.exe
+C:\Users\serba\Desktop\kurs\kurs\bin\x64\Debug\kurs.pdb
+C:\Users\serba\Desktop\kurs\kurs\obj\x64\Debug\kurs.Form1.resources
+C:\Users\serba\Desktop\kurs\kurs\obj\x64\Debug\kurs.Properties.Resources.resources
+C:\Users\serba\Desktop\kurs\kurs\obj\x64\Debug\kurs.csproj.GenerateResource.cache
+C:\Users\serba\Desktop\kurs\kurs\obj\x64\Debug\kurs.csproj.CoreCompileInputs.cache
+C:\Users\serba\Desktop\kurs\kurs\obj\x64\Debug\kurs.exe
+C:\Users\serba\Desktop\kurs\kurs\obj\x64\Debug\kurs.pdb
